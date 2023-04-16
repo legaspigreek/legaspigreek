@@ -39,9 +39,9 @@ _Connect with me_
 
 ---
 
-<h2 align="left">Languages and Tools:</h2>
-<h3 align="left">⚒️TechStack</h3>
-<p align="left">
+<h2 align="center">Languages and Tools:</h2>
+<h3 align="center">⚒️TechStack</h3>
+<p align="center">
 <a href="https://www.oracle.com/java/technologies/java8.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA SE 8" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue JS" width="40" height="40"/>
