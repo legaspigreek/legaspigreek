@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Greek Legaspi</h1>
 
-<h3 align="center">A lifelong learner, hardworking, and currently Studying a Master's degree in Applied Cybersecurity at <a href:"https://www.southwales.ac.uk/courses/msc-applied-cyber-security/" target:"_blank">USW</a></h3>
+<h3 align="center">A lifelong learner, hardworking, and currently Studying a Master's degree in Applied Cybersecurity at <a href="https://www.southwales.ac.uk/courses/msc-applied-cyber-security/" target="_blank">USW</a></h3>
 
 🎓 I recently graduated from college and am currently studying for my Master's degree in Applied Cybersecurity.
 
