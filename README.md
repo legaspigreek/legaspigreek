@@ -34,13 +34,15 @@ _Connect with me_
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legaspigreek&show_icons=true&locale=en&layout=compact" alt="legaspigreek" /></p> -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=legaspigreek&show_icons=true&locale=en" alt="legaspigreek" width="50%" />
+</p>
+<p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=legaspigreek&" alt="legaspigreek" width="50%" />
 </p>
 
 ---
 
-<h2 align="center">Languages and Tools:</h2>
-<h3 align="center">⚒️TechStack</h3>
+<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">⚒️TechStack</h3>
 <p align="center">
 <a href="https://www.oracle.com/java/technologies/java8.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA SE 8" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
