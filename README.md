@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm  **Greek Legaspi**</h1>
+<h1 align="center">Hi 👋, I'm Greek Legaspi</h1>
 
 <h3 align="center">A lifelong learner, hardworking, and currently Studying a Master's degree in Applied Cybersecurity at <a href:"https://www.southwales.ac.uk/courses/msc-applied-cyber-security/" target:"_blank">USW</a></h3>
 
