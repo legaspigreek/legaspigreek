@@ -22,7 +22,7 @@
 
 _Connect with me_
 
-[![Linkedin: Greek Legaspi](https://img.shields.io/badge/-Greek_Genver_Legaspi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greeklegaspi/)](https://www.linkedin.com/in/greeklegaspi/)
+[![Linkedin: Greek Legaspi](https://img.shields.io/badge/-Greek_Legaspi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greeklegaspi/)](https://www.linkedin.com/in/greeklegaspi/)
 [![Instagram:legaspi_greks](https://img.shields.io/badge/-legaspi_greks-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/legaspi_greks/)](https://www.instagram.com/legaspi_greks/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/legaspi_greks?style=social)
 
