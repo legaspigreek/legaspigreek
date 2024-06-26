@@ -30,5 +30,5 @@ _Connect with me_
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue JS" width="40" height="40"/>
 <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo-v2/svg/logo-vertical.svg" alt="Quasar Framework" width="40" height="40"/>
-and more...
 </p>
+**and more...**
