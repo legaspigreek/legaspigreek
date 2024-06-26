@@ -2,23 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Greek Legaspi</h1>
 
-<h3 align="center">A lifelong learner, hardworking, and currently Studying a Master's degree in Applied Cybersecurity at <a href="https://www.southwales.ac.uk/courses/msc-applied-cyber-security/" target="_blank">USW</a></h3>
-
-🎓 I recently graduated from college and am currently studying for my Master's degree in Applied Cybersecurity.
-
-💼 I am seeking employment that will allow me to utilize my diverse skills and motivated attitude to further a company's mission.
-
-🌟 I am talented in various social media platforms and proficient in office technology programs.
-
-⚡ Fun fact: My fascination with cybersecurity was sparked by my insatiable curiosity about technology. I've always been intrigued by the inner workings of systems and how they can be protected. This curiosity has driven me to pursue a Master's degree in Applied Cybersecurity and continuously explore the ever-evolving world of cyber defense.
-
-📖 Inspirational quote: "The only way to do great work is to love what you do." – Steve Jobs
-
-💡 Motivational quote 1: "Your only limit is your mind. Believe in yourself, and you can achieve anything."
-
-🚀 Motivational quote 2: "No one knows what the future holds. That's why its potential is infinite." – Okabe Rintarou (Steins;Gate)
-
-## Feel free to connect with me and explore opportunities where my skills and passion for cybersecurity can make a significant impact. Together, we can create a more secure digital world.
+## Feel free to connect with me and explore opportunities where my skills and passion for Technology can make a significant impact to your business.
 
 _Connect with me_
 
