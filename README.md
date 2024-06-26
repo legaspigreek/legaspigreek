@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Greek Legaspi</h1>
 
-## Feel free to connect with me and explore opportunities where my skills and passion for Technology can make a significant impact to your business.
+Feel free to connect with me to explore opportunities where my skills and passion for technology can make a significant impact on your business.
 
 _Connect with me_
 
@@ -30,4 +30,5 @@ _Connect with me_
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue JS" width="40" height="40"/>
 <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo-v2/svg/logo-vertical.svg" alt="Quasar Framework" width="40" height="40"/>
+and more...
 </p>
