@@ -5,7 +5,7 @@
 Feel free to connect with me to explore opportunities where my skills and passion for technology can make a significant impact on your business.
 
 _Connect with me_
-
+[![Website: Greek Legaspi](https://img.shields.io/badge/%F0%9F%8C%90-Greek_Legaspi-green?style=flat-square&logo=Internet&logoColor=white&link=https://www.greeklegaspi.com)](https://www.greeklegaspi.com/)
 [![Linkedin: Greek Legaspi](https://img.shields.io/badge/-Greek_Legaspi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greeklegaspi/)](https://www.linkedin.com/in/greeklegaspi/)
 [![Instagram:legaspi_greks](https://img.shields.io/badge/-legaspi_greks-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/legaspi_greks/)](https://www.instagram.com/legaspi_greks/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/legaspi_greks?style=social)
@@ -20,15 +20,3 @@ _Connect with me_
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legaspigreek&" alt="legaspigreek" width="50%" />
 </p>
-
----
-
-<h2 align="left">Languages and Tools:</h2>
-<h3 align="left">⚒️TechStack</h3>
-<p align="left">
-<a href="https://www.oracle.com/java/technologies/java8.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA SE 8" width="40" height="40"/> <span> </span>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <span> </span>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue JS" width="40" height="40"/> <span> </span>
-<a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo-v2/svg/logo-vertical.svg" alt="Quasar Framework" width="40" height="40"/> <span> </span>
-</p>
-<b>and more...</b>
